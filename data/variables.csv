@@ -1,0 +1,155 @@
+Variable Code,Variable Name,Unit Code
+CO2_PBPROD,"Production-based CO2 productivity, GDP per unit of energy-related CO2 emissions",USD_KG
+CO2_PBEMCAP,"Production-based CO2 intensity, energy-related CO2 per capita",TONNE
+NRG_PROD,"Energy productivity,  GDP per unit of TPES",USD
+NRG_INT,"Energy intensity, TPES per capita",TOE
+RE_TPES,"Renewable energy supply, % total energy supply",PC
+RE_NRG,"Renewable electricity, % total electricity generation",PC
+WATER_FWCAP,Total freshwater abstraction per capita,M3CAP
+WATER_FW_TR,"Water stress, total freshwater abstraction as % total available renewable resources",PC
+WATER_FW_TIRR,"Water stress, total freshwater abstraction as % total internal renewable resources",PC
+WLIFE_MA,"Threatened mammal species, % total known species",PC
+WLIFE_BI,"Threatened bird species, % total known species",PC
+WLIFE_PL,"Threatened vascular plant species, % total known species",PC
+ASEW_POP,"Population connected to public sewerage, % total population",PC
+ENVRD_GBAORD,"Environmentally related government R&D budget, % total government R&D",PC
+ENVRD_GDP,"Environmentally related R&D expenditure, % GDP",PC
+RERD_ERD,"Renewable energy public RD&D budget, % total energy public RD&D",PC
+ERD_GDP,"Energy public RD&D budget, % GDP",PC
+GPAT_DE_AT,"Development of environment-related technologies, % all technologies",PC
+GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",PC
+GPAT_DE_CAP,"Development of environment-related technologies, inventions per capita",NBR
+ODA_ENV,"Environmentally related ODA, % total ODA",PC
+ODA_RE,"ODA - renewable energy sector, % total allocable ODA",PC
+ODA_WATER,"ODA - water supply and sanitation sector, % total allocable ODA",PC
+ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",PC
+ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",PC
+ODA_CCADP,"ODA - all sectors - climate change adaptation, % total ODA",PC
+ODA_DES,"ODA - all sectors - desertification, % total ODA",PC
+ODA_GNI,"Net ODA provided, % GNI",PC
+ENVTAX_GDP,"Environmentally related taxes, % GDP",PC
+ENVTAX_TR,"Environmentally related taxes, % total tax revenue",PC
+ENVTAX_NRG,"Energy related tax revenue, % total environmental tax revenue",PC
+ENVTAX_VEH,"Road transport-related tax revenue, % total environmental tax revenue",PC
+GDP_RCAP,Real GDP per capita,USD
+POPDEN,"Population density, inhabitants per km2",HAB
+LTAX_GDP,"Labour tax revenue, % GDP",PC
+ASEW_PWT,"Population connected to sewerage with primary treatment, % total population",PC
+ASEW_SWT,"Population connected to sewerage with secondary treatment, % total population",PC
+ASEW_TWT,"Population connected to sewerage with tertiary treatment, % total population",PC
+CO2_DBPROD,"Demand-based CO2 productivity, GDP per unit of energy-related CO2 emissions",USD_KG
+CO2_DBPROD_NNDI,"Demand-based CO2 productivity, disposable income per unit of energy-related CO2 emissions",USD_KG
+GPAT_DE_RTA,Relative advantage in environment-related technology,RATIO
+NRGS,Total primary energy supply,TOE
+FTAX_PET,"Petrol tax, USD per litre",USD_L
+INDGDP_PC,"Value added in industry, % of total value added",PC
+SRVGDP_PC,"Value added in services, % of total value added",PC
+CO2_PBEM,Production-based CO2 emissions,TONNE
+MWAS_RECO,"Municipal waste recycled or composted, % treated waste ",PC
+ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",PC
+CO2_DBEM,Demand-based CO2 emissions,TONNE
+FTAX_DIE,"Diesel tax, USD per litre",USD_L
+AGRGDP_PC,"Value added in agriculture, % of total value added",PC
+MWAS_INC,"Municipal waste incinerated, % treated waste",PC
+CO2_DBEMCAP,"Demand-based CO2 intensity, energy-related CO2 per capita",TONNE
+CSE_ENET,"Fossil fuel consumer support, % energy related tax revenue",PC
+DMC_BIO,"Biomass, % of DMC",PC
+GDP_R00,"Real GDP, Index 2000=100",IDX
+MWAS_INT,"Municipal waste generated, kg per capita",KG_HAB
+NRG_I00,"Total primary energy supply, index 2000=100",IDX
+CSE_TOTT,"Fossil fuel consumer support, % total tax revenue",PC
+CO2_PBEM00,"Production-based CO2 emissions, index 2000=100",IDX
+DMC_PROD,"Non-energy material productivity, GDP per unit of DMC",USD_KG
+MWAS_LANDF,"Municipal waste disposed to landfills, % treated waste",PC
+EAMFP_APAG,Adjustment for pollution abatement,PC_PNT
+PM_SPEX35,Percentage of population exposed to more than 35 micrograms/m3,PC
+PM_SPEX10,Percentage of population exposed to more than 10 micrograms/m3,PC
+PM_PWM,Mean population exposure to PM2.5,MICRO_M3
+EAMFP_NKG,Contribution of natural capital,PC_PNT
+EAMFP_EAMFPG,Environmentally adjusted multifactor productivity growth,PC_PNT
+PET_FFS,"Petroleum support, % total fossil fuel support",PC
+DMC_MET,"Metals, % of DMC",PC
+NRGC_TRA,"Energy consumption in transport, % total energy consumption",PC
+CSE_FFS,"Fossil fuel consumer support, % total fossil fuel support",PC
+NRGC_OTH,"Energy consumption in other sectors, % total energy consumption",PC
+NRGC_SER,"Energy consumption in services, % total energy consumption",PC
+FOR_INTUSE,Intensity of use of forest resources,RATIO
+FFS_TTAX,"Total fossil fuel support, % of total tax revenue",PC
+PM_MOR,Mortality from exposure to ambient PM2.5,1000000HAB
+WATER_STPC,Total renewable freshwater per capita,M3CAP
+PSE_FFS,"Fossil fuel producer support, % total fossil fuel support",PC
+SANI_SPOP,"Population with access to improved sanitation, % total population",PC
+PBAL_HA,Phosphorus balance per hectare,KG
+COAL_FFS,"Coal support, % total fossil fuel support",PC
+NRGC_IND,"Energy consumption in industry, % total energy consumption",PC
+NRGC_AGR,"Energy consumption in agriculture, % total energy consumption",PC
+NATG_FFS,"Gas support, % total fossil fuel support",PC
+NBAL_HA,Nitrogen balance per hectare,KG
+LTAX_TTAX,"Labour tax revenue, % total tax revenue",PC
+DMC_MIN,"Non-metallic minerals, % of DMC",PC
+DRIN_SPOP,"Population with access to improved drinking water sources, % total population ",PC
+FOR_STOCK,Forest resource stocks,M3
+GSSE_FFS,"Fossil fuel general services support, % total fossil fuel support",PC
+FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",PC
+LCC_NATLOSS92,"Loss of natural and semi-natural vegetated land, % since 1992",PC
+SW_PERMTONOT,"Conversion of permanent water to not-water surface, % permanent water, since 1984",PC
+LCC_NATGAIN04,"Gain of natural and semi-natural vegetated land, % since 2004",PC
+BA_BUILTA_CAP,Built up area per capita,M2
+LCC_NATLOSS04,"Loss of natural and semi-natural vegetated land, % since 2004",PC
+LCC_CROPTOARTIF,"Conversion from cropland to artificial surfaces, % since 1992",PC
+LCC_NATTOCROP,"Conversion from natural and semi-natural land to cropland, % since 1992",PC
+LC_WAT,"Water, % total",PC
+LC_BAR,"Bare land, % total",PC
+LC_URB,"Artificial surfaces, % total ",PC
+BA_NEWBUILTA00,"New built up area, % since 2000",PC
+LCC_NATTOARTIF,"Conversion from natural and semi-natural land to artificial surfaces, % since 1992",PC
+SW_PERMWAT,"Permanent surface water, % total surface",PC
+SW_SEASWAT,"Seasonal surface water, % total surface ",PC
+LC_NAT,"Natural and semi-natural vegetated land, % total",PC
+BA_BUILTA,"Built up area, % total land",PC
+SW_PERMTOSEAS,"Conversion of permanent to seasonal water surface, % permanent water, since 1984",PC
+LC_CRO,"Cropland, % total",PC
+LCC_NATGAIN92,"Gain of natural and semi-natural vegetated land, % since 1992",PC
+SW_NOTTOPERM,"Conversion of not-water to permanent water surface, % permanent water, since 1984",PC
+PM_SC,"Welfare costs of premature mortalities from exposure to ambient PM2.5, GDP equivalent",PC
+SW_SEASTOPERM,"Conversion of seasonal to permanent water surface, % permanent water, since 1984",PC
+BA_NEWBUILTA90,"New built up area, % since 1990",PC
+PB_MOR,Mortality from exposure to lead,1000000HAB
+O3_SC,"Welfare costs of premature deaths from exposure to ambient ozone, GDP equivalent",PC
+FPRICE_DIE,"Diesel end-user price, USD per litre",USD_L
+PB_SC,"Welfare costs of premature deaths from exposure to lead, GDP equivalent",PC
+O3_MOR,Mortality from exposure to ambient ozone,1000000HAB
+FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,USD
+FPRICE_PET,"Petrol end-user price, USD per litre",USD_L
+FIT_WIND,Mean feed-in tariff for wind electricity generation,USD
+RN_SC,"Welfare costs of premature mortalities from exposure to residential radon, GDP equivalent",PC
+RN_MOR,Mortality from exposure to residential radon,1000000HAB
+EPRICE_IND,"Industry electricity price, USD per kWh",USD
+EPRICE_RES,"Residential electricity price, USD per kWh",USD
+POP_FERTILITY,"Total fertility rate, children per woman",CHLD
+POP_LIFEEXP,Life expectancy at birth,YR
+POP_A1564,"Population, ages 15-64, % total",PC
+CO2_AIRTRAGDP,CO2 emissions from air transport per unit of GDP,KG
+POP,Population,1000HAB
+TEMPCHANGE5180,"Annual surface temperature, change since 1951-1980",NBR
+EPEA_GDP,"National expenditure on environmental protection, % GDP",PC
+POP_A65UP,"Population, ages 65 and above, % total",PC
+IRRIG_AGLAND,"Irrigated land, % agricultural land",PC
+PEST_AGLAND,Sales of pesticides per unit of agricultural land,KG
+FOR_IF_EXTENT,"Intact forest landscape, km2",KM2
+POP_SWOMEN,"Women, % total population",PC
+POP_A0014,"Population, ages 0-14, % total",PC
+ECR_PC60UP,"Emissions priced above EUR 60 per tonne of CO2, % total emissions",PC
+CO2_AIRTRACAP,CO2 emissions from air transport per capita,TONNE
+POP_NETMIGR,Net migration,1000HAB
+PA_TERRESTRIAL,"Terrestrial protected area, % land area",PC
+ECR_PC30UP,"Emissions priced above EUR 30 per tonne of CO2, % total emissions",PC
+BIRD_FARM,"Farmland Birds Index, 2000=100",IDX
+PA_MARINE,"Marine protected area, % total exclusive economic zone",PC
+FOR_IF_PCLOSS2000,"Intact forest landscape loss, % since 2000",PC
+BIRD_FOR,"Forest Birds Index, 2000=100",IDX
+ELEC_FFS,"Electricity support, % total fossil fuel support",PC
+CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",
+RE_TPES_EBIOM,"Renewable energy supply (excluding solid biofuels), % total energy supply",
+FOR_NAT,"Naturally regenerating forests, % total forest area",
+FOR_LTMGMT,"Forests with long-term management plans, % total forest area",
